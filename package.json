@@ -1,7 +1,16 @@
 {
   "name": "shop",
+  "author": "Agnieszka26",
+  "description": "Online shop website with functionality: landing page, log in, add to card and more.",
   "version": "0.1.0",
   "private": true,
+  "license" : "MIT",
+  "homepage": "https://github.com/Agnieszka26/e-commerce",
+  "engines": {
+    "node": ">=14.0.0",
+    "yarn": ">=1.22.0",
+    "npm": "please-use-yarn"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
